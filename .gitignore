@@ -1,0 +1,14 @@
+# Banco de dados local
+relatorios_infantis.db
+*.sqlite3
+*.db
+
+# Arquivos temporários do Python e Streamlit
+__pycache__/
+.pytest_cache/
+.streamlit/
+
+# Ambientes virtuais
+venv/
+.venv/
+env/
