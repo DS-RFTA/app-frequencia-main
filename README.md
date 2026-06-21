@@ -1,6 +1,7 @@
 # 📊 Sistema de Gestão - Ponto de Pregação Infantil
 
 Um aplicativo web interativo desenvolvido em Python para digitalizar, armazenar e analisar os relatórios semanais dos pontos de pregação infantil.
+https://github.com/DS-RFTA/app-frequencia-main/tree/main
 
 ## 🎯 Objetivo do Projeto
 Substituir o preenchimento manual de relatórios em papel por um sistema digital robusto, permitindo o armazenamento seguro em banco de dados relacional e a visualização estratégica de indicadores (KPIs) por meio de um Dashboard dinâmico.
