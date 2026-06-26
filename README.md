@@ -25,3 +25,6 @@ Substituir o preenchimento manual de relatórios em papel por um sistema digital
 1. Clone este repositório:
 ```bash
 git clone [https://github.com/SEU_USUARIO/gestao-pregacao-infantil.git](https://github.com/SEU_USUARIO/gestao-pregacao-infantil.git)
+
+
+by Renata Félix Trajano de Araújo
